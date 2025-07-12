@@ -27,7 +27,7 @@ matches:
 
   # Print the output of a shell command
   - trigger: ":soham"
-    replace: "soham is my hero"
+    replace: "soham is my hero 3"
     vars:
       - name: output
         type: shell
